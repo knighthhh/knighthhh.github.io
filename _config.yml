@@ -80,5 +80,5 @@ theme: spfk
 deploy:
   type: git
   repo: https://github.com/knighthhh/knighthhh.github.io.git
-  #repo: https://knighthhh:**@github.com/knighthhh/knighthhh.github.io.git
+  #repo: https://knighthhh:***@github.com/knighthhh/knighthhh.github.io.git
   branch: master

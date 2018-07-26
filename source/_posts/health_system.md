@@ -1,6 +1,8 @@
 # 掌上健康系统（health_system）
 ### 目录 
 ---
+这是摘要
+<!-- more -->
 <ul>
   <li><a href="#introduce">系统介绍</a></li>
   <li><a href="#system">环境要求</a></li>
@@ -13,8 +15,6 @@
 #
 ### <div id="introduce"/>1. 系统介绍</div>
 > 该系统是基于ThinkPHP和MUI开发的web app项目，实现了找医生，找医院，实时在线问诊，开处方，建立用户健康档案等功能。主要特色在于患者与医生能够一对一快速咨询问诊，患者建立自身的健康档案。 该系统涉及的内容有推荐算法的实现，短信验证码，地图，实时聊天和APP推送等功能，支持跨平台多终端使用，均为web app，包括安卓患者版app，安卓医生版app，IOS居民版app，IOS医生版app，web后台管理系统。<br/>
-
-<!-- more -->
 
 #
 ### <div id="system"/>2. 环境要求</div>

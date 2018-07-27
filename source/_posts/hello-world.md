@@ -1,8 +1,7 @@
 ---
 title: Hello World
+date: 2018-6-23 09:00:00
 ---
-Welcome to myblog.
-
 
 ``` bash
 import hashlib
